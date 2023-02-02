@@ -11,3 +11,12 @@
 <strong>- Notifications and reminders:</strong> The application provides a scheduled reminder and notification to ensure proper implementation of individual’s diet plan.<br/>
 <strong>- Educational information and lessons of nutrition for kids and families</strong> is also included in the application. This will increase the knowledge of families especially mothers about nutrition.<br/>
 <strong>- Customer support services:</strong> The system will have an online or offline via SMS and call-based support system, where users can ask questions for the support team.
+
+
+<h3>Project Mission </h3>
+•	To guide families to create the best nutritional diet that make a healthy (mentally and physically) and well-nourished children. <br/>
+•	To help every mother in Eritrea to prepare the best nutritional diet as much as possible with an affordable and available groceries.<br/>
+<h3>Project Goals</h3>
+•	Help every mother in every location in Eritrea prepare the best nutritional food with affordable groceries available within its local market.<br/>
+•	Tackle malnutrition in the coming decade, in co-operation with other sectors such as ministries of health, agriculture and education and contribute to make well-nourished, strong, mentally and physically healthy youth that will build a healthy and strong nation. <br/>
+•	Improve the nutritional status, health, growth, development and the survival of infants and young children, through optimal feeding practices. 
