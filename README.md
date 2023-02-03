@@ -1,9 +1,6 @@
 <h2>Mobile Application for Preparation of Nutritional and Healthy Food with Locally Available and Affordable Recipes</h2>
 
-<p>
-    
- <img src="https://user-images.githubusercontent.com/32343117/216513446-17b29eb2-e054-48b1-a0c7-5bba90e4cc12.jpg" width=420 height=450 /> &nbsp; 
-</p>
+![Ecosystem](https://user-images.githubusercontent.com/32343117/216234189-b0c4030f-e211-46de-8a60-f0bb88c9d079.PNG)
 
 <h4>System Features</h4>
 <strong>- Offline database of food recipes:</strong> The application is designed to provide a large offline database of food recipes that are identified to be nutritional and effective for a child growth. It includes the best ways to cook food without losing the content of the food content.<br/>
@@ -16,7 +13,9 @@
 <strong>- Customer support services:</strong> The system will have an online or offline via SMS and call-based support system, where users can ask questions for the support team.
 
 
-![Ecosystem](https://user-images.githubusercontent.com/32343117/216234189-b0c4030f-e211-46de-8a60-f0bb88c9d079.PNG)
+<p>
+ <img src="https://user-images.githubusercontent.com/32343117/216513446-17b29eb2-e054-48b1-a0c7-5bba90e4cc12.jpg" width=370 height=550 /> &nbsp; 
+</p>
 
 <h3>Project Mission </h3>
 •	To guide families to create the best nutritional diet that make a healthy (mentally and physically) and well-nourished children. <br/>
